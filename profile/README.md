@@ -53,6 +53,7 @@ The placement of human cognitive and spiritual anchoring at the center ensures t
 And finally, the recognition that "Love and Truth remain the way" grounds our technical work in ethical priorities that transcend mere utility or efficiency. This manifests in systems designed to promote human flourishing, protect dignity, and advance genuine understanding rather than manipulation or deception.
 
 <details>
+
 ### Purpose and Spiritual Foundation
 
 Ultimately, our work is anchored in faith, hope, and love. The greatest of these being love. We recognize that we answer to God in all that we do, and our highest aspiration is to do His will through our work. This spiritual foundation has profound implications for how we approach technology development:
