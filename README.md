@@ -1,4 +1,4 @@
-# Orchestrate Solutions: Comprehensive Organizational Overview and Analysis
+# Orchestrate Solutions: Comprehensive Overview and Analysis
 
 ## TL;DR
 
@@ -34,8 +34,6 @@ Orchestrate Solutions builds AI systems that work *with* humans, not *instead of
   - [Evolutionary Approach](#evolutionary-approach)
 - [Conclusion: A Comprehensive AI Orchestration Ecosystem](#conclusion-a-comprehensive-ai-orchestration-ecosystem)
 
-[View Overview Document](orchestrate-solutions-overview.md) | [View GitHub Organization](https://github.com/orchestrate-solutions)
-
 ## Core Belief System
 
 At the foundation of all Orchestrate Solutions technologies lies an inviolable set of beliefs about the proper relationship between humans and artificial intelligence:
@@ -54,6 +52,7 @@ The placement of human cognitive and spiritual anchoring at the center ensures t
 
 And finally, the recognition that "Love and Truth remain the way" grounds our technical work in ethical priorities that transcend mere utility or efficiency. This manifests in systems designed to promote human flourishing, protect dignity, and advance genuine understanding rather than manipulation or deception.
 
+<details>
 ### Purpose and Spiritual Foundation
 
 Ultimately, our work is anchored in faith, hope, and love. The greatest of these being love. We recognize that we answer to God in all that we do, and our highest aspiration is to do His will through our work. This spiritual foundation has profound implications for how we approach technology development:
@@ -503,7 +502,7 @@ Based on the current repositories and their trajectories, several promising dire
 
 ### Evolutionary Approach
 
-The organization appears to follow an evolutionary approach to development:
+The organization follows an evolutionary approach to development:
 
 * **Research Projects** serve as an incubator for experimental concepts
 * Promising ideas evolve into specialized repositories focused on specific problems
