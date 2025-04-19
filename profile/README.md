@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Orchestrate builds AI systems that work *with* humans, not *instead of* them. Our ecosystem includes cognitive architectures (ARC), cross-language function orchestration (ModuLink), isolated development environments (CapsulateRepo), and specialized tools for AI training and accessibility. Everything we build is designed to enhance human capability, maintain human control, and promote human flourishing through love and truth as our guiding principles.
+Orchestrate builds AI and software systems that work *with* humans, not *instead of* them. Our ecosystem includes cognitive architectures (ARC), cross-language function orchestration (ModuLink), isolated development environments (CapsulateRepo), and specialized tools for AI training and accessibility. Everything we build is designed to enhance human capability, maintain human control, and promote human flourishing through love and truth as our guiding principles.
 
 ## Table of Contents
 
