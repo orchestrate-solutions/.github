@@ -52,25 +52,23 @@ The placement of human cognitive and spiritual anchoring at the center ensures t
 
 And finally, the recognition that "Love and Truth remain the way" grounds our technical work in ethical priorities that transcend mere utility or efficiency. This manifests in systems designed to promote human flourishing, protect dignity, and advance genuine understanding rather than manipulation or deception.
 
+Ultimately, our work is anchored in faith, hope, and love. The greatest of these being love.
+
 <details>
 
 ### Purpose and Spiritual Foundation
 
-Ultimately, our work is anchored in faith, hope, and love. The greatest of these being love. We recognize that we answer to God in all that we do, and our highest aspiration is to do His will through our work. This spiritual foundation has profound implications for how we approach technology development:
-
 1. **Accountability**: We build systems that are accountable not only to human oversight of righteousness, justice, and mercy.
 
-2. **Love**: We long to show the love of Jesus in all that we do — not as a secondary concern, but as the central imperative that shapes algorithmic design, user experience, and system architecture.
+2. **Human Dignity**: We recognize that every person deserves to be shown love — not because of what they can do, produce, or contribute. They are enough of a reason to be loved.
+   
+3. **Love**: We long to show the love of Jesus in all that we do — not as a secondary concern, but as the central imperative that shapes algorithmic design, user experience, and system architecture.
 
-3. **Human Dignity**: We recognize that every person deserves to be shown love simply because they are loved by God — not because of what they can do, produce, or contribute.
-
-4. **Kingdom Work**: We view our contributions not merely as advancement or products, but as an expression of Love for His Kingdom.
-
-This spiritual foundation informs every aspect of our technical architecture. From the human-in-the-loop safeguards in our ARC Layered Model to the collaborative frameworks of CapsulateRepo, our systems are designed to honor both human dignity and divine purpose.
+This foundation informs every aspect of our technical architecture. From the human-in-the-loop safeguards in our ARC Layered Model to the collaborative frameworks of CapsulateRepo, our systems are designed as an expression of our love and compassion for you, the user.
 
 ## Executive Introduction
 
-The Orchestrate organization represents a meticulously crafted ecosystem of interrelated technologies, frameworks, and methodologies designed to address the increasingly complex challenges in artificial intelligence orchestration, cognitive architecture development, and multi-agent system coordination. Through a strategic portfolio of complementary repositories, Orchestrate offers comprehensive solutions spanning from foundational cognitive architectures to specialized tools for language-agnostic function orchestration, containerized agent isolation, and performance-optimized embedding techniques.
+The Orchestrate organization represents a meticulously crafted ecosystem of interrelated technologies, frameworks, and methodologies designed to address the increasingly complex challenges in being human. Artificial intelligence orchestration, cognitive architecture development, and multi-agent system coordination are some of the means in which we hope to give you your time back for what matters most. Through a strategic portfolio of complementary repositories, Orchestrate offers comprehensive solutions spanning from foundational cognitive architectures to specialized tools for language-agnostic function orchestration, containerized agent isolation, and performance-optimized embedding techniques.
 
 This document provides an exhaustive exploration of the Orchestrate ecosystem, analyzing each repository's core functionality, architectural principles, integration capabilities, and potential applications within the broader AI and automation landscape. By examining these components both individually and as an integrated whole, we aim to illustrate how Orchestrate is addressing fundamental challenges in explainable AI, cross-language integration, multi-agent coordination, and human-AI collaboration paradigms.
 
@@ -80,7 +78,7 @@ Orchestrate operates on several foundational principles that inform the architec
 
 1. **Modular Composability**: Each component within the ecosystem is designed with clearly defined interfaces and responsibilities, enabling flexible composition and reconfiguration to address diverse use cases.
 
-2. **Cross-Language Interoperability**: Recognizing the polyglot nature of modern software development, Orchestrate prioritizes seamless integration across programming languages, enabling development teams to leverage the strengths of different technology stacks.
+2. **Cross-Language Interoperability**: Recognizing the polyglot nature of modern software development, Orchestrate prioritizes seamless integration across programming languages, whenever possible, enabling development teams to leverage the strengths of different technology stacks.
 
 3. **Explainable Accountability**: Throughout the ecosystem, transparency and auditability are built into the architecture, ensuring that decisions, actions, and processes can be traced, explained, and justified.
 
